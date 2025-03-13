@@ -11,5 +11,5 @@ The analsyis is based on and includes:
 
 ## To start ##
 Download and unzip the shiny file. Then open RStudio and navigate to the folder where the unzipped files are located. Open each script, install all the packages line by line and call the packages first. Then run the Global and UI scripts then the Server (ignore the error about *object 'output' not found*) and save them. Finally launch the shiny app and ignore the warning: *Warning in colors(.) :
-  Some values were outside the color scale and will be treated as NA*
+  Some values were outside the color scale and will be treated as NA*.
 
