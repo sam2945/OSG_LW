@@ -10,4 +10,5 @@ The analsyis is based on and includes:
 - **The Mouseover feature is known to be able to run once but on a second run R studio crashes necessitating a restart**
 
 ## To start ##
-Download and unzip the shiny file. Then open RStudio and navigate to the folder where the unzipped files are located. Open each script, run and save them and ignore the warnigns about colour. Finally launch the shiny app. 
+Download and unzip the shiny file. Then open RStudio and navigate to the folder where the unzipped files are located. Open each script, install all the packages line by line and call the packages first. Then run the Global and UI scripts then the Server (ignore the error about *object 'output' not found* and save them. Finally launch the shiny app and ignore the warnigns about colour. 
+
